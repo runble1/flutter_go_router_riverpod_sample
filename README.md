@@ -1,4 +1,4 @@
-# go_router sample
+# go_router + hooks_riverpod sample
 
 A new Flutter project.
 
