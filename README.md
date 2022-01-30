@@ -1,4 +1,4 @@
-# sample
+# go_router sample
 
 A new Flutter project.
 
